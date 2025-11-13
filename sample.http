@@ -1,0 +1,16 @@
+### Get user and last 5 orders
+### This user WORKS - tested and verified
+GET http://localhost:8080/users/eWV43ZKL
+
+### Get another user
+GET http://localhost:8080/users/3uYzNyvm
+
+### Get third user
+GET http://localhost:8080/users/9rnFGLjg
+
+### Get order and payment status
+### Note: Use order IDs from: docker-compose logs producer | Select-String "OrderPlaced"
+### Orders may take time to appear in database
+GET http://localhost:8080/orders/Lsn33PRK
+
+
