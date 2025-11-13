@@ -27,7 +27,8 @@ docker-compose up --build
 - REDIS_ADDR
   
 ## system architecture 
-![Uploading image.png…]()
+<img width="1578" height="597" alt="image" src="https://github.com/user-attachments/assets/cb203162-b6b5-463a-b7da-a22721ba1c65" />
+
 
 
 ## SQL Schema
