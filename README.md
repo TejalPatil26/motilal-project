@@ -25,6 +25,10 @@ docker-compose up --build
 - KAFKA_BROKER
 - SQLSERVER_CONN
 - REDIS_ADDR
+  
+## system architecture 
+![Uploading image.png…]()
+
 
 ## SQL Schema
 See `schema.sql` for table definitions.
